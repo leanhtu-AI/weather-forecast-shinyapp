@@ -1,6 +1,7 @@
+
 # Weather-Forecast-Shinyapp ╰(*°▽°*)╯
 
-![Alt text](C:/Users/FPTSHOP/OneDrive - Đại học FPT- FPT University/AI1706/Fall2023/DSR301m/Shinyapp/image.png)
+![Alt text](image.png)
 
 ## Description😎
 
