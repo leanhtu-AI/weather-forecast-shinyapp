@@ -1,7 +1,7 @@
 
 # Weather-Forecast-Shinyapp ╰(*°▽°*)╯
 
-![Alt text]([image.png](https://drive.google.com/file/d/1ru0Ci2nFUgGQJCGp6JC7XTeEpQzginjq/view?usp=sharing))
+![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2F-weather&psig=AOvVaw39MLDTuXFIFF1GBy7n275v&ust=1699350614864000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjclL-Mr4IDFQAAAAAdAAAAABAE)
 
 ## Description😎
 
