@@ -1,0 +1,69 @@
+.weather-info {
+  flex: 1;
+  max-width: 50%;
+  padding: 20px;
+}
+/* Set the background color of all boxes to white */
+.box-body {
+  background-color: white;
+  color: black;
+}
+.custom-text {
+  color: black;
+  margin-bottom: 20px;
+  font-size:60px
+}
+
+/* Set the size of the custom icon */
+.custom-icon {
+  font-size: 30px; /* Adjust the size as needed */
+  margin-right:10px;
+  margin-left:50px;
+}
+
+.custom-text-output1 {
+  font-size: 50px; /* Adjust the size as needed */
+  color: black; 
+  font-weight: 900;
+}
+.custom-text-output2 {
+  font-size: 30px; /* Adjust the size as needed */
+  color: black; 
+  font-weight: 700;
+  margin-top:10px;
+}
+.custom-cloud1 {
+  font-size: 50px; /* Adjust the size as needed */
+  margin-left:15px;
+  color: #ffffff;
+}
+
+.custom-text-temp {
+  font-size: 30px; /* Adjust the size as needed */
+  color: orange;
+  font-weight:700;
+}
+
+.custom-icon-temp {
+  font-size: 40px; /* Adjust the size as needed */
+  margin-right:10px;
+  margin-left:100px;
+}
+#location_ {
+  font-size: 50px;
+}
+
+.custom-icon-fc {
+  font-size: 40px; /* Adjust the size as needed */
+  margin-right:10px;
+  margin-left:25px;
+}
+
+.box-fc {
+  width: 200px;
+}
+.chart {
+  height: 450px;
+  width: 680px;
+}
+
