@@ -6,9 +6,9 @@
 
 ## Description😎
 
-1. This was an assignment in my basic R course in school that involved taking weather forecast and posting them on the website through 👉[shinyapp.io](https://www.shinyapps.io/). 
+- This was an assignment in my basic R course in school that involved taking weather forecast and posting them on the website through 👉[shinyapp.io](https://www.shinyapps.io/). 
 
-2. With weather forecast, i already take an API from website [openweathermap](https://home.openweathermap.org/), if you want use your own API, please go to it and create an account.
+- With weather forecast, i already take an API from website [openweathermap](https://home.openweathermap.org/), if you want use your own API, please go to it and create an account.
 
 ## Installation🤖
 
