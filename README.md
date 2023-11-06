@@ -20,8 +20,7 @@ install.packages(c("shiny", "leaflet", "jsonlite", "ggplot2", "tidyverse", "shin
 ```
 
 ## Enjoy my app here👌
-[InteractiveMap](https://leanhtu1808.shinyapps.io/shinyapp/)
-
+[InteractiveMap](https://leanhtu1808.shinyapps.io/shinyapp/)🎈
 
 
 
