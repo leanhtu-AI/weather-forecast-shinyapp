@@ -1,7 +1,8 @@
 
 # Weather-Forecast-Shinyapp ╰(*°▽°*)╯
 
-![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2F-weather&psig=AOvVaw39MLDTuXFIFF1GBy7n275v&ust=1699350614864000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjclL-Mr4IDFQAAAAAdAAAAABAE)
+<!-- Use the HTML `img` tag to display the image with specified width and height -->
+<img src="https://github.com/leanhtu-AI/weather-forecast-shinyapp/assets/95951687/b1d2e502-4fb9-4797-8ae7-48c594a83279" style="width: 600px; height: 350px;" alt="Alt text">
 
 ## Description😎
 
